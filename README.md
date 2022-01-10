@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @panky988
+- 👀 I'm interested in everything about IT
+- 🏢 I am currently studying at the University of Nyíregyháza, Program Design Informatics Department.
+- 🏫 I currently work as a system administrator in an elementary school and teach programming to students.
+- 📫 How to reach me ...
